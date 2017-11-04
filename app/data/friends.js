@@ -1,0 +1,52 @@
+var friendsArray = [
+  {
+    "name":"Stacy",
+    "photo":"https://media.caranddriver.com/images/17q1/674191/2018-subaru-wrx-and-wrx-sti-photos-and-info-news-car-and-driver-photo-674302-s-450x274.jpg",
+    "scores":[
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+  },
+  {
+    "name":"Cynthia",
+    "photo":"https://www.cstatic-images.com/stock/900x600/271397.jpg",
+    "scores":[
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ]
+  },
+  {
+    "name":"Melanie",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPO9TAvOIInelC8DqWcny3q0fJNKmD0h0VU0JvG3cgE26oMv6",
+    "scores":[
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+  },
+];
+
+module.exports = friendsArray;
